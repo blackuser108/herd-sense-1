@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef } from "react";
 import { ArrowLeft, RefreshCw, Check } from "lucide-react";
 import HeartRateChart from './HeartRateChart';
 
